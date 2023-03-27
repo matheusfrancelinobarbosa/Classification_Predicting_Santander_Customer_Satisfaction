@@ -1,2 +1,2 @@
-# Project-Predicting-Santander-Customer-Satisfaction
+# Classification_Predicting_Santander_Customer_Satisfaction
 ML Project with Apache Spark
